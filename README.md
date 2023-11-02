@@ -3,6 +3,20 @@
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+
+# Project Description:
+[*] The project is about an imaginary beverage company called CodeX.
+CodeX is a German beverage company which is recently launched in India. They launched their energy drink in 10 cities in India.
+
+CodeX conducted a survey in those 10 cities and received results from 10k respondents.
+Their Marketing Team wants their Data Analyst to convert these survey results into meaningful insights which the team can use to drive actions
+[▪] Demographic Insights
+[▪] Consumer Preference
+[▪] Competition Analysis
+[▪] Marketing Channels and Brand Awareness
+[▪] Brand Penetration
+[▪] Purchase Behavior
+[▪] Product Development Suggestions
 # task
 ![codex](https://github.com/praveenmvishwa/Provide-insight-to-the-marketing-team-in-food-beverage-industry-codeX/assets/97948603/5e8b18db-a9c2-4977-b39a-f4c2a3d27634)
 # Dashboard
